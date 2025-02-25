@@ -4,4 +4,6 @@ En este repositorio se encuentra en lo que vednria a ser una aplicacion basica d
 
 Instrucciones
 
-Al ser este un zip tocara descargarlo y posteriormente poner el archivo en algun IDE de preferencia Eclipse debido a que en este fue que se realizo el programa
+Al ser este un zip tocara descargarlo y posteriormente poner el archivo en algun IDE de preferencia Eclipse debido a que en este fue que se realizo el programa.
+
+(Me toco subirlo asi debido a que es la primera vez que uso Github y no pude subirlo el codigo directamente desde Eclipse)
